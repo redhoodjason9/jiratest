@@ -21,4 +21,4 @@ jobs:
     environment: dev
     steps:
       - name: deploy
-      
+        uses: actions/checkout@v2
