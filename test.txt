@@ -1,1 +1,3 @@
 Test file
+new commit
+new commit with commit message
